@@ -4,18 +4,18 @@ const Header  = () => {
     return (
       <div>
         <h1 style={{ display: "none" }}>
-          <cufon
+          <div
             className="cufon cufon-canvas"
             alt="Сүхбаатарын "
             style={{ width: 98, height: 14 }}
           >
-            <canvas
+            <div
               width={110}
               height={17}
               style={{ width: 110, height: 17, top: "-2px", left: 0 }}
             />
-            <cufontext>
-              <cufon
+            <div>
+              <div
                 className="cufon cufon-canvas"
                 alt="Сүхбаатарын "
                 style={{ width: 12, height: 1 }}
@@ -25,8 +25,8 @@ const Header  = () => {
                   height={2}
                   style={{ width: 13, height: 2, top: 0, left: 0 }}
                 />
-                <cufontext>
-                  <cufon
+                <div>
+                  <div
                     className="cufon cufon-canvas"
                     alt="Сүхбаатарын "
                     style={{ width: 12, height: 1 }}
@@ -36,8 +36,8 @@ const Header  = () => {
                       height={2}
                       style={{ width: 13, height: 2, top: 0, left: 0 }}
                     />
-                    <cufontext>
-                      <cufon
+                    <div>
+                      <div
                         className="cufon cufon-canvas"
                         alt="Сүхбаатарын "
                         style={{ width: 12, height: 1 }}
@@ -47,8 +47,8 @@ const Header  = () => {
                           height={2}
                           style={{ width: 13, height: 2, top: 0, left: 0 }}
                         />
-                        <cufontext>
-                          <cufon
+                        <div>
+                          <div
                             className="cufon cufon-canvas"
                             alt="Сүхбаатарын "
                             style={{ width: 12, height: 1 }}
@@ -58,8 +58,8 @@ const Header  = () => {
                               height={2}
                               style={{ width: 13, height: 2, top: 0, left: 0 }}
                             />
-                            <cufontext>
-                              <cufon
+                            <div>
+                              <div
                                 className="cufon cufon-canvas"
                                 alt="Сүхбаатарын "
                                 style={{ width: 12, height: 1 }}
@@ -69,8 +69,8 @@ const Header  = () => {
                                   height={2}
                                   style={{ width: 13, height: 2, top: 0, left: 0 }}
                                 />
-                                <cufontext>
-                                  <cufon
+                                <div>
+                                  <div
                                     className="cufon cufon-canvas"
                                     alt="Сүхбаатарын "
                                     style={{ width: 12, height: 1 }}
@@ -85,8 +85,8 @@ const Header  = () => {
                                         left: 0
                                       }}
                                     />
-                                    <cufontext>
-                                      <cufon
+                                    <div>
+                                      <div
                                         className="cufon cufon-canvas"
                                         alt="Сүхбаатарын "
                                         style={{ width: 12, height: 1 }}
@@ -101,8 +101,8 @@ const Header  = () => {
                                             left: 0
                                           }}
                                         />
-                                        <cufontext>
-                                          <cufon
+                                        <div>
+                                          <div
                                             className="cufon cufon-canvas"
                                             alt="Сүхбаатарын "
                                             style={{ width: 12, height: 1 }}
@@ -117,8 +117,8 @@ const Header  = () => {
                                                 left: 0
                                               }}
                                             />
-                                            <cufontext>
-                                              <cufon
+                                            <div>
+                                              <div
                                                 className="cufon cufon-canvas"
                                                 alt="Сүхбаатарын "
                                                 style={{ width: 12, height: 1 }}
@@ -133,8 +133,8 @@ const Header  = () => {
                                                     left: 0
                                                   }}
                                                 />
-                                                <cufontext>
-                                                  <cufon
+                                                <div>
+                                                  <div
                                                     className="cufon cufon-canvas"
                                                     alt="Сүхбаатарын "
                                                     style={{ width: 12, height: 1 }}
@@ -149,8 +149,8 @@ const Header  = () => {
                                                         left: 0
                                                       }}
                                                     />
-                                                    <cufontext>
-                                                      <cufon
+                                                    <div>
+                                                      <div
                                                         className="cufon cufon-canvas"
                                                         alt="Сүхбаатарын "
                                                         style={{
@@ -168,8 +168,8 @@ const Header  = () => {
                                                             left: 0
                                                           }}
                                                         />
-                                                        <cufontext>
-                                                          <cufon
+                                                        <div>
+                                                          <div
                                                             className="cufon cufon-canvas"
                                                             alt="Сүхбаатарын "
                                                             style={{
@@ -187,8 +187,8 @@ const Header  = () => {
                                                                 left: 0
                                                               }}
                                                             />
-                                                            <cufontext>
-                                                              <cufon
+                                                            <div>
+                                                              <div
                                                                 className="cufon cufon-canvas"
                                                                 alt="Сүхбаатарын "
                                                                 style={{
@@ -206,8 +206,8 @@ const Header  = () => {
                                                                     left: 0
                                                                   }}
                                                                 />
-                                                                <cufontext>
-                                                                  <cufon
+                                                                <div>
+                                                                  <div
                                                                     className="cufon cufon-canvas"
                                                                     alt="Сүхбаатарын "
                                                                     style={{
@@ -225,39 +225,39 @@ const Header  = () => {
                                                                         left: 0
                                                                       }}
                                                                     />
-                                                                    <cufontext>
+                                                                    <div>
                                                                       Сүхбаатарын{" "}
-                                                                    </cufontext>
-                                                                  </cufon>
-                                                                </cufontext>
-                                                              </cufon>
-                                                            </cufontext>
-                                                          </cufon>
-                                                        </cufontext>
-                                                      </cufon>
-                                                    </cufontext>
-                                                  </cufon>
-                                                </cufontext>
-                                              </cufon>
-                                            </cufontext>
-                                          </cufon>
-                                        </cufontext>
-                                      </cufon>
-                                    </cufontext>
-                                  </cufon>
-                                </cufontext>
-                              </cufon>
-                            </cufontext>
-                          </cufon>
-                        </cufontext>
-                      </cufon>
-                    </cufontext>
-                  </cufon>
-                </cufontext>
-              </cufon>
-            </cufontext>
-          </cufon>
-          <cufon
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
             className="cufon cufon-canvas"
             alt="Батболд "
             style={{ width: 63, height: 14 }}
@@ -267,8 +267,8 @@ const Header  = () => {
               height={17}
               style={{ width: 75, height: 17, top: "-2px", left: 0 }}
             />
-            <cufontext>
-              <cufon
+            <div>
+              <div
                 className="cufon cufon-canvas"
                 alt="Батболд "
                 style={{ width: 8, height: 1 }}
@@ -278,8 +278,8 @@ const Header  = () => {
                   height={2}
                   style={{ width: 9, height: 2, top: 0, left: 0 }}
                 />
-                <cufontext>
-                  <cufon
+                <div>
+                  <div
                     className="cufon cufon-canvas"
                     alt="Батболд "
                     style={{ width: 8, height: 1 }}
@@ -289,8 +289,8 @@ const Header  = () => {
                       height={2}
                       style={{ width: 9, height: 2, top: 0, left: 0 }}
                     />
-                    <cufontext>
-                      <cufon
+                    <div>
+                      <div
                         className="cufon cufon-canvas"
                         alt="Батболд "
                         style={{ width: 8, height: 1 }}
@@ -300,8 +300,8 @@ const Header  = () => {
                           height={2}
                           style={{ width: 9, height: 2, top: 0, left: 0 }}
                         />
-                        <cufontext>
-                          <cufon
+                        <div>
+                          <div
                             className="cufon cufon-canvas"
                             alt="Батболд "
                             style={{ width: 8, height: 1 }}
@@ -311,8 +311,8 @@ const Header  = () => {
                               height={2}
                               style={{ width: 9, height: 2, top: 0, left: 0 }}
                             />
-                            <cufontext>
-                              <cufon
+                            <div>
+                              <div
                                 className="cufon cufon-canvas"
                                 alt="Батболд "
                                 style={{ width: 8, height: 1 }}
@@ -322,8 +322,8 @@ const Header  = () => {
                                   height={2}
                                   style={{ width: 9, height: 2, top: 0, left: 0 }}
                                 />
-                                <cufontext>
-                                  <cufon
+                                <div>
+                                  <div
                                     className="cufon cufon-canvas"
                                     alt="Батболд "
                                     style={{ width: 8, height: 1 }}
@@ -333,8 +333,8 @@ const Header  = () => {
                                       height={2}
                                       style={{ width: 9, height: 2, top: 0, left: 0 }}
                                     />
-                                    <cufontext>
-                                      <cufon
+                                    <div>
+                                      <div
                                         className="cufon cufon-canvas"
                                         alt="Батболд "
                                         style={{ width: 8, height: 1 }}
@@ -349,8 +349,8 @@ const Header  = () => {
                                             left: 0
                                           }}
                                         />
-                                        <cufontext>
-                                          <cufon
+                                        <div>
+                                          <div
                                             className="cufon cufon-canvas"
                                             alt="Батболд "
                                             style={{ width: 8, height: 1 }}
@@ -365,8 +365,8 @@ const Header  = () => {
                                                 left: 0
                                               }}
                                             />
-                                            <cufontext>
-                                              <cufon
+                                            <div>
+                                              <div
                                                 className="cufon cufon-canvas"
                                                 alt="Батболд "
                                                 style={{ width: 8, height: 1 }}
@@ -381,8 +381,8 @@ const Header  = () => {
                                                     left: 0
                                                   }}
                                                 />
-                                                <cufontext>
-                                                  <cufon
+                                                <div>
+                                                  <div
                                                     className="cufon cufon-canvas"
                                                     alt="Батболд "
                                                     style={{ width: 8, height: 1 }}
@@ -397,8 +397,8 @@ const Header  = () => {
                                                         left: 0
                                                       }}
                                                     />
-                                                    <cufontext>
-                                                      <cufon
+                                                    <div>
+                                                      <div
                                                         className="cufon cufon-canvas"
                                                         alt="Батболд "
                                                         style={{
@@ -416,8 +416,8 @@ const Header  = () => {
                                                             left: 0
                                                           }}
                                                         />
-                                                        <cufontext>
-                                                          <cufon
+                                                        <div>
+                                                          <div
                                                             className="cufon cufon-canvas"
                                                             alt="Батболд "
                                                             style={{
@@ -435,8 +435,8 @@ const Header  = () => {
                                                                 left: 0
                                                               }}
                                                             />
-                                                            <cufontext>
-                                                              <cufon
+                                                            <div>
+                                                              <div
                                                                 className="cufon cufon-canvas"
                                                                 alt="Батболд "
                                                                 style={{
@@ -454,8 +454,8 @@ const Header  = () => {
                                                                     left: 0
                                                                   }}
                                                                 />
-                                                                <cufontext>
-                                                                  <cufon
+                                                                <div>
+                                                                  <div
                                                                     className="cufon cufon-canvas"
                                                                     alt="Батболд "
                                                                     style={{
@@ -473,39 +473,39 @@ const Header  = () => {
                                                                         left: 0
                                                                       }}
                                                                     />
-                                                                    <cufontext>
+                                                                    <div>
                                                                       Батболд{" "}
-                                                                    </cufontext>
-                                                                  </cufon>
-                                                                </cufontext>
-                                                              </cufon>
-                                                            </cufontext>
-                                                          </cufon>
-                                                        </cufontext>
-                                                      </cufon>
-                                                    </cufontext>
-                                                  </cufon>
-                                                </cufontext>
-                                              </cufon>
-                                            </cufontext>
-                                          </cufon>
-                                        </cufontext>
-                                      </cufon>
-                                    </cufontext>
-                                  </cufon>
-                                </cufontext>
-                              </cufon>
-                            </cufontext>
-                          </cufon>
-                        </cufontext>
-                      </cufon>
-                    </cufontext>
-                  </cufon>
-                </cufontext>
-              </cufon>
-            </cufontext>
-          </cufon>
-          <cufon
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
             className="cufon cufon-canvas"
             alt="Batbold "
             style={{ width: 61, height: 14 }}
@@ -515,8 +515,8 @@ const Header  = () => {
               height={17}
               style={{ width: 73, height: 17, top: "-2px", left: 0 }}
             />
-            <cufontext>
-              <cufon
+            <div>
+              <div
                 className="cufon cufon-canvas"
                 alt="Batbold "
                 style={{ width: 8, height: 1 }}
@@ -526,8 +526,8 @@ const Header  = () => {
                   height={2}
                   style={{ width: 8, height: 2, top: 0, left: 0 }}
                 />
-                <cufontext>
-                  <cufon
+                <div>
+                  <div
                     className="cufon cufon-canvas"
                     alt="Batbold "
                     style={{ width: 8, height: 1 }}
@@ -537,8 +537,8 @@ const Header  = () => {
                       height={2}
                       style={{ width: 8, height: 2, top: 0, left: 0 }}
                     />
-                    <cufontext>
-                      <cufon
+                    <div>
+                      <div
                         className="cufon cufon-canvas"
                         alt="Batbold "
                         style={{ width: 8, height: 1 }}
@@ -548,8 +548,8 @@ const Header  = () => {
                           height={2}
                           style={{ width: 8, height: 2, top: 0, left: 0 }}
                         />
-                        <cufontext>
-                          <cufon
+                        <div>
+                          <div
                             className="cufon cufon-canvas"
                             alt="Batbold "
                             style={{ width: 8, height: 1 }}
@@ -559,8 +559,8 @@ const Header  = () => {
                               height={2}
                               style={{ width: 8, height: 2, top: 0, left: 0 }}
                             />
-                            <cufontext>
-                              <cufon
+                            <div>
+                              <div
                                 className="cufon cufon-canvas"
                                 alt="Batbold "
                                 style={{ width: 8, height: 1 }}
@@ -570,8 +570,8 @@ const Header  = () => {
                                   height={2}
                                   style={{ width: 8, height: 2, top: 0, left: 0 }}
                                 />
-                                <cufontext>
-                                  <cufon
+                                <div>
+                                  <div
                                     className="cufon cufon-canvas"
                                     alt="Batbold "
                                     style={{ width: 8, height: 1 }}
@@ -581,8 +581,8 @@ const Header  = () => {
                                       height={2}
                                       style={{ width: 8, height: 2, top: 0, left: 0 }}
                                     />
-                                    <cufontext>
-                                      <cufon
+                                    <div>
+                                      <div
                                         className="cufon cufon-canvas"
                                         alt="Batbold "
                                         style={{ width: 8, height: 1 }}
@@ -597,8 +597,8 @@ const Header  = () => {
                                             left: 0
                                           }}
                                         />
-                                        <cufontext>
-                                          <cufon
+                                        <div>
+                                          <div
                                             className="cufon cufon-canvas"
                                             alt="Batbold "
                                             style={{ width: 8, height: 1 }}
@@ -613,8 +613,8 @@ const Header  = () => {
                                                 left: 0
                                               }}
                                             />
-                                            <cufontext>
-                                              <cufon
+                                            <div>
+                                              <div
                                                 className="cufon cufon-canvas"
                                                 alt="Batbold "
                                                 style={{ width: 8, height: 1 }}
@@ -629,8 +629,8 @@ const Header  = () => {
                                                     left: 0
                                                   }}
                                                 />
-                                                <cufontext>
-                                                  <cufon
+                                                <div>
+                                                  <div
                                                     className="cufon cufon-canvas"
                                                     alt="Batbold "
                                                     style={{ width: 8, height: 1 }}
@@ -645,8 +645,8 @@ const Header  = () => {
                                                         left: 0
                                                       }}
                                                     />
-                                                    <cufontext>
-                                                      <cufon
+                                                    <div>
+                                                      <div
                                                         className="cufon cufon-canvas"
                                                         alt="Batbold "
                                                         style={{
@@ -664,8 +664,8 @@ const Header  = () => {
                                                             left: 0
                                                           }}
                                                         />
-                                                        <cufontext>
-                                                          <cufon
+                                                        <div>
+                                                          <div
                                                             className="cufon cufon-canvas"
                                                             alt="Batbold "
                                                             style={{
@@ -683,8 +683,8 @@ const Header  = () => {
                                                                 left: 0
                                                               }}
                                                             />
-                                                            <cufontext>
-                                                              <cufon
+                                                            <div>
+                                                              <div
                                                                 className="cufon cufon-canvas"
                                                                 alt="Batbold "
                                                                 style={{
@@ -702,8 +702,8 @@ const Header  = () => {
                                                                     left: 0
                                                                   }}
                                                                 />
-                                                                <cufontext>
-                                                                  <cufon
+                                                                <div>
+                                                                  <div
                                                                     className="cufon cufon-canvas"
                                                                     alt="Batbold "
                                                                     style={{
@@ -721,39 +721,39 @@ const Header  = () => {
                                                                         left: 0
                                                                       }}
                                                                     />
-                                                                    <cufontext>
+                                                                    <div>
                                                                       Batbold{" "}
-                                                                    </cufontext>
-                                                                  </cufon>
-                                                                </cufontext>
-                                                              </cufon>
-                                                            </cufontext>
-                                                          </cufon>
-                                                        </cufontext>
-                                                      </cufon>
-                                                    </cufontext>
-                                                  </cufon>
-                                                </cufontext>
-                                              </cufon>
-                                            </cufontext>
-                                          </cufon>
-                                        </cufontext>
-                                      </cufon>
-                                    </cufontext>
-                                  </cufon>
-                                </cufontext>
-                              </cufon>
-                            </cufontext>
-                          </cufon>
-                        </cufontext>
-                      </cufon>
-                    </cufontext>
-                  </cufon>
-                </cufontext>
-              </cufon>
-            </cufontext>
-          </cufon>
-          <cufon
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
             className="cufon cufon-canvas"
             alt="Sukhbaatar"
             style={{ width: 84, height: 14 }}
@@ -763,8 +763,8 @@ const Header  = () => {
               height={17}
               style={{ width: 91, height: 17, top: "-2px", left: 0 }}
             />
-            <cufontext>
-              <cufon
+            <div>
+              <div
                 className="cufon cufon-canvas"
                 alt="Sukhbaatar"
                 style={{ width: 10, height: 1 }}
@@ -774,8 +774,8 @@ const Header  = () => {
                   height={2}
                   style={{ width: 11, height: 2, top: 0, left: 0 }}
                 />
-                <cufontext>
-                  <cufon
+                <div>
+                  <div
                     className="cufon cufon-canvas"
                     alt="Sukhbaatar"
                     style={{ width: 10, height: 1 }}
@@ -785,8 +785,8 @@ const Header  = () => {
                       height={2}
                       style={{ width: 11, height: 2, top: 0, left: 0 }}
                     />
-                    <cufontext>
-                      <cufon
+                    <div>
+                      <div
                         className="cufon cufon-canvas"
                         alt="Sukhbaatar"
                         style={{ width: 10, height: 1 }}
@@ -796,8 +796,8 @@ const Header  = () => {
                           height={2}
                           style={{ width: 11, height: 2, top: 0, left: 0 }}
                         />
-                        <cufontext>
-                          <cufon
+                        <div>
+                          <div
                             className="cufon cufon-canvas"
                             alt="Sukhbaatar"
                             style={{ width: 10, height: 1 }}
@@ -807,8 +807,8 @@ const Header  = () => {
                               height={2}
                               style={{ width: 11, height: 2, top: 0, left: 0 }}
                             />
-                            <cufontext>
-                              <cufon
+                            <div>
+                              <div
                                 className="cufon cufon-canvas"
                                 alt="Sukhbaatar"
                                 style={{ width: 10, height: 1 }}
@@ -818,8 +818,8 @@ const Header  = () => {
                                   height={2}
                                   style={{ width: 11, height: 2, top: 0, left: 0 }}
                                 />
-                                <cufontext>
-                                  <cufon
+                                <div>
+                                  <div
                                     className="cufon cufon-canvas"
                                     alt="Sukhbaatar"
                                     style={{ width: 10, height: 1 }}
@@ -834,8 +834,8 @@ const Header  = () => {
                                         left: 0
                                       }}
                                     />
-                                    <cufontext>
-                                      <cufon
+                                    <div>
+                                      <div
                                         className="cufon cufon-canvas"
                                         alt="Sukhbaatar"
                                         style={{ width: 10, height: 1 }}
@@ -850,8 +850,8 @@ const Header  = () => {
                                             left: 0
                                           }}
                                         />
-                                        <cufontext>
-                                          <cufon
+                                        <div>
+                                          <div
                                             className="cufon cufon-canvas"
                                             alt="Sukhbaatar"
                                             style={{ width: 10, height: 1 }}
@@ -866,8 +866,8 @@ const Header  = () => {
                                                 left: 0
                                               }}
                                             />
-                                            <cufontext>
-                                              <cufon
+                                            <div>
+                                              <div
                                                 className="cufon cufon-canvas"
                                                 alt="Sukhbaatar"
                                                 style={{ width: 10, height: 1 }}
@@ -882,8 +882,8 @@ const Header  = () => {
                                                     left: 0
                                                   }}
                                                 />
-                                                <cufontext>
-                                                  <cufon
+                                                <div>
+                                                  <div
                                                     className="cufon cufon-canvas"
                                                     alt="Sukhbaatar"
                                                     style={{ width: 10, height: 1 }}
@@ -898,8 +898,8 @@ const Header  = () => {
                                                         left: 0
                                                       }}
                                                     />
-                                                    <cufontext>
-                                                      <cufon
+                                                    <div>
+                                                      <div
                                                         className="cufon cufon-canvas"
                                                         alt="Sukhbaatar"
                                                         style={{
@@ -917,8 +917,8 @@ const Header  = () => {
                                                             left: 0
                                                           }}
                                                         />
-                                                        <cufontext>
-                                                          <cufon
+                                                        <div>
+                                                          <div
                                                             className="cufon cufon-canvas"
                                                             alt="Sukhbaatar"
                                                             style={{
@@ -936,8 +936,8 @@ const Header  = () => {
                                                                 left: 0
                                                               }}
                                                             />
-                                                            <cufontext>
-                                                              <cufon
+                                                            <div>
+                                                              <div
                                                                 className="cufon cufon-canvas"
                                                                 alt="Sukhbaatar"
                                                                 style={{
@@ -955,8 +955,8 @@ const Header  = () => {
                                                                     left: 0
                                                                   }}
                                                                 />
-                                                                <cufontext>
-                                                                  <cufon
+                                                                <div>
+                                                                  <div
                                                                     className="cufon cufon-canvas"
                                                                     alt="Sukhbaatar"
                                                                     style={{
@@ -974,38 +974,38 @@ const Header  = () => {
                                                                         left: 0
                                                                       }}
                                                                     />
-                                                                    <cufontext>
+                                                                    <div>
                                                                       Sukhbaatar
-                                                                    </cufontext>
-                                                                  </cufon>
-                                                                </cufontext>
-                                                              </cufon>
-                                                            </cufontext>
-                                                          </cufon>
-                                                        </cufontext>
-                                                      </cufon>
-                                                    </cufontext>
-                                                  </cufon>
-                                                </cufontext>
-                                              </cufon>
-                                            </cufontext>
-                                          </cufon>
-                                        </cufontext>
-                                      </cufon>
-                                    </cufontext>
-                                  </cufon>
-                                </cufontext>
-                              </cufon>
-                            </cufontext>
-                          </cufon>
-                        </cufontext>
-                      </cufon>
-                    </cufontext>
-                  </cufon>
-                </cufontext>
-              </cufon>
-            </cufontext>
-          </cufon>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </h1>
         <div id="header_batbold"> </div>
         <div id="header" className="wrapper">
@@ -1025,7 +1025,7 @@ const Header  = () => {
               <ul id="mainmenu">
                 <li>
                   <a href="/">
-                    <cufon
+                    <div
                       className="cufon cufon-canvas"
                       alt="Нүүр "
                       style={{ width: 35, height: 13 }}
@@ -1035,8 +1035,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 46, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="Нүүр "
                           style={{ width: 5, height: 1 }}
@@ -1046,8 +1046,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 6, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="Нүүр "
                               style={{ width: 5, height: 1 }}
@@ -1057,8 +1057,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 6, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="Нүүр "
                                   style={{ width: 5, height: 1 }}
@@ -1068,8 +1068,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 6, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="Нүүр "
                                       style={{ width: 5, height: 1 }}
@@ -1084,8 +1084,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="Нүүр "
                                           style={{ width: 5, height: 1 }}
@@ -1100,8 +1100,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="Нүүр "
                                               style={{ width: 5, height: 1 }}
@@ -1116,8 +1116,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="Нүүр "
                                                   style={{ width: 5, height: 1 }}
@@ -1132,8 +1132,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="Нүүр "
                                                       style={{ width: 5, height: 1 }}
@@ -1148,8 +1148,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="Нүүр "
                                                           style={{
@@ -1167,8 +1167,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="Нүүр "
                                                               style={{
@@ -1186,8 +1186,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="Нүүр "
                                                                   style={{
@@ -1205,8 +1205,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="Нүүр "
                                                                       style={{
@@ -1224,8 +1224,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="Нүүр "
                                                                           style={{
@@ -1243,8 +1243,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="Нүүр "
                                                                               style={{
@@ -1266,39 +1266,39 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 Нүүр{" "}
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
-                    <cufon
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
                       className="cufon cufon-canvas"
                       alt="хуудас"
                       style={{ width: 48, height: 13 }}
@@ -1308,8 +1308,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 56, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="хуудас"
                           style={{ width: 6, height: 1 }}
@@ -1319,8 +1319,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 7, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="хуудас"
                               style={{ width: 6, height: 1 }}
@@ -1330,8 +1330,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 7, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="хуудас"
                                   style={{ width: 6, height: 1 }}
@@ -1341,8 +1341,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 7, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="хуудас"
                                       style={{ width: 6, height: 1 }}
@@ -1357,8 +1357,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="хуудас"
                                           style={{ width: 6, height: 1 }}
@@ -1373,8 +1373,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="хуудас"
                                               style={{ width: 6, height: 1 }}
@@ -1389,8 +1389,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="хуудас"
                                                   style={{ width: 6, height: 1 }}
@@ -1405,8 +1405,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="хуудас"
                                                       style={{ width: 6, height: 1 }}
@@ -1421,8 +1421,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="хуудас"
                                                           style={{
@@ -1440,8 +1440,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="хуудас"
                                                               style={{
@@ -1459,8 +1459,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="хуудас"
                                                                   style={{
@@ -1478,8 +1478,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="хуудас"
                                                                       style={{
@@ -1497,8 +1497,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="хуудас"
                                                                           style={{
@@ -1516,8 +1516,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="хуудас"
                                                                               style={{
@@ -1539,43 +1539,43 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 хуудас
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </a>
                 </li>
                 <li>
                   <a href="/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/">
-                    <cufon
+                    <div
                       className="cufon cufon-canvas"
                       alt="Мэдээ, "
                       style={{ width: 50, height: 13 }}
@@ -1585,8 +1585,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 61, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="Мэдээ, "
                           style={{ width: 7, height: 1 }}
@@ -1596,8 +1596,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 8, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="Мэдээ, "
                               style={{ width: 7, height: 1 }}
@@ -1607,8 +1607,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 8, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="Мэдээ, "
                                   style={{ width: 7, height: 1 }}
@@ -1618,8 +1618,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 8, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="Мэдээ, "
                                       style={{ width: 7, height: 1 }}
@@ -1634,8 +1634,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="Мэдээ, "
                                           style={{ width: 7, height: 1 }}
@@ -1650,8 +1650,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="Мэдээ, "
                                               style={{ width: 7, height: 1 }}
@@ -1666,8 +1666,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="Мэдээ, "
                                                   style={{ width: 7, height: 1 }}
@@ -1682,8 +1682,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="Мэдээ, "
                                                       style={{ width: 7, height: 1 }}
@@ -1698,8 +1698,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="Мэдээ, "
                                                           style={{
@@ -1717,8 +1717,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="Мэдээ, "
                                                               style={{
@@ -1736,8 +1736,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="Мэдээ, "
                                                                   style={{
@@ -1755,8 +1755,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="Мэдээ, "
                                                                       style={{
@@ -1774,8 +1774,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="Мэдээ, "
                                                                           style={{
@@ -1793,8 +1793,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="Мэдээ, "
                                                                               style={{
@@ -1816,39 +1816,39 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 Мэдээ,{" "}
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
-                    <cufon
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
                       className="cufon cufon-canvas"
                       alt="мэдээлэл"
                       style={{ width: 65, height: 13 }}
@@ -1858,8 +1858,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 72, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="мэдээлэл"
                           style={{ width: 9, height: 1 }}
@@ -1869,8 +1869,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 9, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="мэдээлэл"
                               style={{ width: 9, height: 1 }}
@@ -1880,8 +1880,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 9, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="мэдээлэл"
                                   style={{ width: 9, height: 1 }}
@@ -1891,8 +1891,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 9, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="мэдээлэл"
                                       style={{ width: 9, height: 1 }}
@@ -1907,8 +1907,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="мэдээлэл"
                                           style={{ width: 9, height: 1 }}
@@ -1923,8 +1923,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="мэдээлэл"
                                               style={{ width: 9, height: 1 }}
@@ -1939,8 +1939,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="мэдээлэл"
                                                   style={{ width: 9, height: 1 }}
@@ -1955,8 +1955,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="мэдээлэл"
                                                       style={{ width: 9, height: 1 }}
@@ -1971,8 +1971,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="мэдээлэл"
                                                           style={{
@@ -1990,8 +1990,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="мэдээлэл"
                                                               style={{
@@ -2009,8 +2009,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="мэдээлэл"
                                                                   style={{
@@ -2028,8 +2028,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="мэдээлэл"
                                                                       style={{
@@ -2047,8 +2047,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="мэдээлэл"
                                                                           style={{
@@ -2066,8 +2066,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="мэдээлэл"
                                                                               style={{
@@ -2089,43 +2089,43 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 мэдээлэл
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </a>
                 </li>
                 <li>
                   <a href="/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD/">
-                    <cufon
+                    <div
                       className="cufon cufon-canvas"
                       alt="Тайлан"
                       style={{ width: 49, height: 13 }}
@@ -2135,8 +2135,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 56, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="Тайлан"
                           style={{ width: 7, height: 1 }}
@@ -2146,8 +2146,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 7, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="Тайлан"
                               style={{ width: 7, height: 1 }}
@@ -2157,8 +2157,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 7, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="Тайлан"
                                   style={{ width: 7, height: 1 }}
@@ -2168,8 +2168,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 7, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="Тайлан"
                                       style={{ width: 7, height: 1 }}
@@ -2184,8 +2184,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="Тайлан"
                                           style={{ width: 7, height: 1 }}
@@ -2200,8 +2200,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="Тайлан"
                                               style={{ width: 7, height: 1 }}
@@ -2216,8 +2216,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="Тайлан"
                                                   style={{ width: 7, height: 1 }}
@@ -2232,8 +2232,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="Тайлан"
                                                       style={{ width: 7, height: 1 }}
@@ -2248,8 +2248,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="Тайлан"
                                                           style={{
@@ -2267,8 +2267,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="Тайлан"
                                                               style={{
@@ -2286,8 +2286,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="Тайлан"
                                                                   style={{
@@ -2305,8 +2305,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="Тайлан"
                                                                       style={{
@@ -2324,8 +2324,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="Тайлан"
                                                                           style={{
@@ -2343,8 +2343,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="Тайлан"
                                                                               style={{
@@ -2366,43 +2366,43 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 Тайлан
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </a>
                 </li>
                 <li>
                   <a href="http://www.open-government.mn/" target="_blank">
-                    <cufon
+                    <div
                       className="cufon cufon-canvas"
                       alt="Засгийн "
                       style={{ width: 58, height: 13 }}
@@ -2412,8 +2412,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 70, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="Засгийн "
                           style={{ width: 8, height: 1 }}
@@ -2423,8 +2423,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 9, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="Засгийн "
                               style={{ width: 8, height: 1 }}
@@ -2434,8 +2434,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 9, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="Засгийн "
                                   style={{ width: 8, height: 1 }}
@@ -2445,8 +2445,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 9, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="Засгийн "
                                       style={{ width: 8, height: 1 }}
@@ -2461,8 +2461,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="Засгийн "
                                           style={{ width: 8, height: 1 }}
@@ -2477,8 +2477,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="Засгийн "
                                               style={{ width: 8, height: 1 }}
@@ -2493,8 +2493,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="Засгийн "
                                                   style={{ width: 8, height: 1 }}
@@ -2509,8 +2509,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="Засгийн "
                                                       style={{ width: 8, height: 1 }}
@@ -2525,8 +2525,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="Засгийн "
                                                           style={{
@@ -2544,8 +2544,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="Засгийн "
                                                               style={{
@@ -2563,8 +2563,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="Засгийн "
                                                                   style={{
@@ -2582,8 +2582,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="Засгийн "
                                                                       style={{
@@ -2601,8 +2601,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="Засгийн "
                                                                           style={{
@@ -2620,8 +2620,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="Засгийн "
                                                                               style={{
@@ -2643,39 +2643,39 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 Засгийн{" "}
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
-                    <cufon
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
                       className="cufon cufon-canvas"
                       alt="газар"
                       style={{ width: 37, height: 13 }}
@@ -2685,8 +2685,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 45, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="газар"
                           style={{ width: 5, height: 1 }}
@@ -2696,8 +2696,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 6, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="газар"
                               style={{ width: 5, height: 1 }}
@@ -2707,8 +2707,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 6, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="газар"
                                   style={{ width: 5, height: 1 }}
@@ -2718,8 +2718,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 6, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="газар"
                                       style={{ width: 5, height: 1 }}
@@ -2734,8 +2734,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="газар"
                                           style={{ width: 5, height: 1 }}
@@ -2750,8 +2750,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="газар"
                                               style={{ width: 5, height: 1 }}
@@ -2766,8 +2766,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="газар"
                                                   style={{ width: 5, height: 1 }}
@@ -2782,8 +2782,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="газар"
                                                       style={{ width: 5, height: 1 }}
@@ -2798,8 +2798,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="газар"
                                                           style={{
@@ -2817,8 +2817,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="газар"
                                                               style={{
@@ -2836,8 +2836,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="газар"
                                                                   style={{
@@ -2855,8 +2855,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="газар"
                                                                       style={{
@@ -2874,8 +2874,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="газар"
                                                                           style={{
@@ -2893,8 +2893,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="газар"
                                                                               style={{
@@ -2916,43 +2916,43 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 газар
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </a>
                 </li>
                 <li>
                   <a href="/%D1%85%D0%BE%D0%BB%D0%B1%D0%BE%D0%BE-%D0%B1%D0%B0%D1%80%D0%B8%D1%85/">
-                    <cufon
+                    <div
                       className="cufon cufon-canvas"
                       alt="Холбоо "
                       style={{ width: 55, height: 13 }}
@@ -2962,8 +2962,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 66, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="Холбоо "
                           style={{ width: 7, height: 1 }}
@@ -2973,8 +2973,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 8, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="Холбоо "
                               style={{ width: 7, height: 1 }}
@@ -2984,8 +2984,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 8, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="Холбоо "
                                   style={{ width: 7, height: 1 }}
@@ -2995,8 +2995,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 8, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="Холбоо "
                                       style={{ width: 7, height: 1 }}
@@ -3011,8 +3011,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="Холбоо "
                                           style={{ width: 7, height: 1 }}
@@ -3027,8 +3027,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="Холбоо "
                                               style={{ width: 7, height: 1 }}
@@ -3043,8 +3043,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="Холбоо "
                                                   style={{ width: 7, height: 1 }}
@@ -3059,8 +3059,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="Холбоо "
                                                       style={{ width: 7, height: 1 }}
@@ -3075,8 +3075,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="Холбоо "
                                                           style={{
@@ -3094,8 +3094,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="Холбоо "
                                                               style={{
@@ -3113,8 +3113,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="Холбоо "
                                                                   style={{
@@ -3132,8 +3132,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="Холбоо "
                                                                       style={{
@@ -3151,8 +3151,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="Холбоо "
                                                                           style={{
@@ -3170,8 +3170,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="Холбоо "
                                                                               style={{
@@ -3193,39 +3193,39 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 Холбоо{" "}
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
-                    <cufon
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
                       className="cufon cufon-canvas"
                       alt="барих"
                       style={{ width: 40, height: 13 }}
@@ -3235,8 +3235,8 @@ const Header  = () => {
                         height={16}
                         style={{ width: 47, height: 16, top: "-1px", left: 0 }}
                       />
-                      <cufontext>
-                        <cufon
+                      <div>
+                        <div
                           className="cufon cufon-canvas"
                           alt="барих"
                           style={{ width: 5, height: 1 }}
@@ -3246,8 +3246,8 @@ const Header  = () => {
                             height={2}
                             style={{ width: 6, height: 2, top: 0, left: 0 }}
                           />
-                          <cufontext>
-                            <cufon
+                          <div>
+                            <div
                               className="cufon cufon-canvas"
                               alt="барих"
                               style={{ width: 5, height: 1 }}
@@ -3257,8 +3257,8 @@ const Header  = () => {
                                 height={2}
                                 style={{ width: 6, height: 2, top: 0, left: 0 }}
                               />
-                              <cufontext>
-                                <cufon
+                              <div>
+                                <div
                                   className="cufon cufon-canvas"
                                   alt="барих"
                                   style={{ width: 5, height: 1 }}
@@ -3268,8 +3268,8 @@ const Header  = () => {
                                     height={2}
                                     style={{ width: 6, height: 2, top: 0, left: 0 }}
                                   />
-                                  <cufontext>
-                                    <cufon
+                                  <div>
+                                    <div
                                       className="cufon cufon-canvas"
                                       alt="барих"
                                       style={{ width: 5, height: 1 }}
@@ -3284,8 +3284,8 @@ const Header  = () => {
                                           left: 0
                                         }}
                                       />
-                                      <cufontext>
-                                        <cufon
+                                      <div>
+                                        <div
                                           className="cufon cufon-canvas"
                                           alt="барих"
                                           style={{ width: 5, height: 1 }}
@@ -3300,8 +3300,8 @@ const Header  = () => {
                                               left: 0
                                             }}
                                           />
-                                          <cufontext>
-                                            <cufon
+                                          <div>
+                                            <div
                                               className="cufon cufon-canvas"
                                               alt="барих"
                                               style={{ width: 5, height: 1 }}
@@ -3316,8 +3316,8 @@ const Header  = () => {
                                                   left: 0
                                                 }}
                                               />
-                                              <cufontext>
-                                                <cufon
+                                              <div>
+                                                <div
                                                   className="cufon cufon-canvas"
                                                   alt="барих"
                                                   style={{ width: 5, height: 1 }}
@@ -3332,8 +3332,8 @@ const Header  = () => {
                                                       left: 0
                                                     }}
                                                   />
-                                                  <cufontext>
-                                                    <cufon
+                                                  <div>
+                                                    <div
                                                       className="cufon cufon-canvas"
                                                       alt="барих"
                                                       style={{ width: 5, height: 1 }}
@@ -3348,8 +3348,8 @@ const Header  = () => {
                                                           left: 0
                                                         }}
                                                       />
-                                                      <cufontext>
-                                                        <cufon
+                                                      <div>
+                                                        <div
                                                           className="cufon cufon-canvas"
                                                           alt="барих"
                                                           style={{
@@ -3367,8 +3367,8 @@ const Header  = () => {
                                                               left: 0
                                                             }}
                                                           />
-                                                          <cufontext>
-                                                            <cufon
+                                                          <div>
+                                                            <div
                                                               className="cufon cufon-canvas"
                                                               alt="барих"
                                                               style={{
@@ -3386,8 +3386,8 @@ const Header  = () => {
                                                                   left: 0
                                                                 }}
                                                               />
-                                                              <cufontext>
-                                                                <cufon
+                                                              <div>
+                                                                <div
                                                                   className="cufon cufon-canvas"
                                                                   alt="барих"
                                                                   style={{
@@ -3405,8 +3405,8 @@ const Header  = () => {
                                                                       left: 0
                                                                     }}
                                                                   />
-                                                                  <cufontext>
-                                                                    <cufon
+                                                                  <div>
+                                                                    <div
                                                                       className="cufon cufon-canvas"
                                                                       alt="барих"
                                                                       style={{
@@ -3424,8 +3424,8 @@ const Header  = () => {
                                                                           left: 0
                                                                         }}
                                                                       />
-                                                                      <cufontext>
-                                                                        <cufon
+                                                                      <div>
+                                                                        <div
                                                                           className="cufon cufon-canvas"
                                                                           alt="барих"
                                                                           style={{
@@ -3443,8 +3443,8 @@ const Header  = () => {
                                                                               left: 0
                                                                             }}
                                                                           />
-                                                                          <cufontext>
-                                                                            <cufon
+                                                                          <div>
+                                                                            <div
                                                                               className="cufon cufon-canvas"
                                                                               alt="барих"
                                                                               style={{
@@ -3466,44 +3466,44 @@ const Header  = () => {
                                                                                   left: 0
                                                                                 }}
                                                                               />
-                                                                              <cufontext>
+                                                                              <div>
                                                                                 барих
-                                                                              </cufontext>
-                                                                            </cufon>
-                                                                          </cufontext>
-                                                                        </cufon>
-                                                                      </cufontext>
-                                                                    </cufon>
-                                                                  </cufontext>
-                                                                </cufon>
-                                                              </cufontext>
-                                                            </cufon>
-                                                          </cufontext>
-                                                        </cufon>
-                                                      </cufontext>
-                                                    </cufon>
-                                                  </cufontext>
-                                                </cufon>
-                                              </cufontext>
-                                            </cufon>
-                                          </cufontext>
-                                        </cufon>
-                                      </cufontext>
-                                    </cufon>
-                                  </cufontext>
-                                </cufon>
-                              </cufontext>
-                            </cufon>
-                          </cufontext>
-                        </cufon>
-                      </cufontext>
-                    </cufon>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </a>
                 </li>
                 <li className="lang-change">
                   <div id="langbar">
                     <a href="javascript:;" rel="en" className="lang">
-                      <cufon
+                      <div
                         className="cufon cufon-canvas"
                         alt=" "
                         style={{ width: 5, height: 13 }}
@@ -3513,8 +3513,8 @@ const Header  = () => {
                           height={16}
                           style={{ width: 16, height: 16, top: "-1px", left: 0 }}
                         />
-                        <cufontext>
-                          <cufon
+                        <div>
+                          <div
                             className="cufon cufon-canvas"
                             alt=" "
                             style={{ width: 1, height: 1 }}
@@ -3524,8 +3524,8 @@ const Header  = () => {
                               height={2}
                               style={{ width: 2, height: 2, top: 0, left: 0 }}
                             />
-                            <cufontext>
-                              <cufon
+                            <div>
+                              <div
                                 className="cufon cufon-canvas"
                                 alt=" "
                                 style={{ width: 1, height: 1 }}
@@ -3535,8 +3535,8 @@ const Header  = () => {
                                   height={2}
                                   style={{ width: 2, height: 2, top: 0, left: 0 }}
                                 />
-                                <cufontext>
-                                  <cufon
+                                <div>
+                                  <div
                                     className="cufon cufon-canvas"
                                     alt=" "
                                     style={{ width: 1, height: 1 }}
@@ -3546,8 +3546,8 @@ const Header  = () => {
                                       height={2}
                                       style={{ width: 2, height: 2, top: 0, left: 0 }}
                                     />
-                                    <cufontext>
-                                      <cufon
+                                    <div>
+                                      <div
                                         className="cufon cufon-canvas"
                                         alt=" "
                                         style={{ width: 1, height: 1 }}
@@ -3562,8 +3562,8 @@ const Header  = () => {
                                             left: 0
                                           }}
                                         />
-                                        <cufontext>
-                                          <cufon
+                                        <div>
+                                          <div
                                             className="cufon cufon-canvas"
                                             alt=" "
                                             style={{ width: 1, height: 1 }}
@@ -3578,8 +3578,8 @@ const Header  = () => {
                                                 left: 0
                                               }}
                                             />
-                                            <cufontext>
-                                              <cufon
+                                            <div>
+                                              <div
                                                 className="cufon cufon-canvas"
                                                 alt=" "
                                                 style={{ width: 1, height: 1 }}
@@ -3594,8 +3594,8 @@ const Header  = () => {
                                                     left: 0
                                                   }}
                                                 />
-                                                <cufontext>
-                                                  <cufon
+                                                <div>
+                                                  <div
                                                     className="cufon cufon-canvas"
                                                     alt=" "
                                                     style={{ width: 1, height: 1 }}
@@ -3610,8 +3610,8 @@ const Header  = () => {
                                                         left: 0
                                                       }}
                                                     />
-                                                    <cufontext>
-                                                      <cufon
+                                                    <div>
+                                                      <div
                                                         className="cufon cufon-canvas"
                                                         alt=" "
                                                         style={{
@@ -3629,8 +3629,8 @@ const Header  = () => {
                                                             left: 0
                                                           }}
                                                         />
-                                                        <cufontext>
-                                                          <cufon
+                                                        <div>
+                                                          <div
                                                             className="cufon cufon-canvas"
                                                             alt=" "
                                                             style={{
@@ -3648,8 +3648,8 @@ const Header  = () => {
                                                                 left: 0
                                                               }}
                                                             />
-                                                            <cufontext>
-                                                              <cufon
+                                                            <div>
+                                                              <div
                                                                 className="cufon cufon-canvas"
                                                                 alt=" "
                                                                 style={{
@@ -3667,8 +3667,8 @@ const Header  = () => {
                                                                     left: 0
                                                                   }}
                                                                 />
-                                                                <cufontext>
-                                                                  <cufon
+                                                                <div>
+                                                                  <div
                                                                     className="cufon cufon-canvas"
                                                                     alt=" "
                                                                     style={{
@@ -3686,8 +3686,8 @@ const Header  = () => {
                                                                         left: 0
                                                                       }}
                                                                     />
-                                                                    <cufontext>
-                                                                      <cufon
+                                                                    <div>
+                                                                      <div
                                                                         className="cufon cufon-canvas"
                                                                         alt=" "
                                                                         style={{
@@ -3705,8 +3705,8 @@ const Header  = () => {
                                                                             left: 0
                                                                           }}
                                                                         />
-                                                                        <cufontext>
-                                                                          <cufon
+                                                                        <div>
+                                                                          <div
                                                                             className="cufon cufon-canvas"
                                                                             alt=" "
                                                                             style={{
@@ -3728,8 +3728,8 @@ const Header  = () => {
                                                                                 left: 0
                                                                               }}
                                                                             />
-                                                                            <cufontext>
-                                                                              <cufon
+                                                                            <div>
+                                                                              <div
                                                                                 className="cufon cufon-canvas"
                                                                                 alt=" "
                                                                                 style={{
@@ -3751,38 +3751,38 @@ const Header  = () => {
                                                                                     left: 0
                                                                                   }}
                                                                                 />
-                                                                                <cufontext>
+                                                                                <div>
                                                                                   {" "}
-                                                                                </cufontext>
-                                                                              </cufon>
-                                                                            </cufontext>
-                                                                          </cufon>
-                                                                        </cufontext>
-                                                                      </cufon>
-                                                                    </cufontext>
-                                                                  </cufon>
-                                                                </cufontext>
-                                                              </cufon>
-                                                            </cufontext>
-                                                          </cufon>
-                                                        </cufontext>
-                                                      </cufon>
-                                                    </cufontext>
-                                                  </cufon>
-                                                </cufontext>
-                                              </cufon>
-                                            </cufontext>
-                                          </cufon>
-                                        </cufontext>
-                                      </cufon>
-                                    </cufontext>
-                                  </cufon>
-                                </cufontext>
-                              </cufon>
-                            </cufontext>
-                          </cufon>
-                        </cufontext>
-                      </cufon>
+                                                                                </div>
+                                                                              </div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                       <img src="/static/images/GBP.png" />
                     </a>
                   </div>
@@ -3827,7 +3827,7 @@ const Header  = () => {
         <div id="toolbar">
           <div className="wrapper">
             <div id="tweetfeed" className="left">
-              <marquee
+              <div
                 width="100%"
                 direction="left"
                 behavior="scroll"
@@ -3836,7 +3836,7 @@ const Header  = () => {
                 onmouseout="this.start()"
               >
                 <div id="tweets_scroll" />
-              </marquee>
+              </div>
             </div>
             <div id="searchbox" className="right">
               <input
