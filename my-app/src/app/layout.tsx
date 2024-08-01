@@ -28,7 +28,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="/static/css/gerege-embedded.css"/>
         <link rel="stylesheet" href="/static/css/gerege-ie7-codes.css"/>
         <link rel="stylesheet" href="/static/css/gerege-ie7.css"/>
-        <link rel="stylesheet" href="/static/assets/gerege.css"/>
+        <link rel="stylesheet" href="/static/css/gerege.css"/>
   
       <link
           rel="stylesheet"

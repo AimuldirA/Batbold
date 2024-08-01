@@ -364,32 +364,32 @@ const Footer  = () => {
       </p>
       <ul id="infomenu">
         <li>
-          <a href="/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D/">
+          <a href="/medee-medeelel/medee/">
             Мэдээ
           </a>
         </li>
         <li>
-          <a href="/%D1%84%D0%BE%D1%82%D0%BE-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D/%D1%84%D0%BE%D1%82%D0%BE-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D/">
+          <a href="/medee-medeelel/photo-medee/">
             Фото мэдээ
           </a>
         </li>
         <li>
-          <a href="/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D/">
+          <a href="/medee-medeelel/bideo-medee/">
             Видео мэдээ
           </a>
         </li>
         <li>
-          <a href="/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/%D1%8F%D1%80%D0%B8%D0%BB%D1%86%D0%BB%D0%B0%D0%B3%D0%B0/">
+          <a href="/medee-medeelel/yariltslaga/">
             Ярилцлага
           </a>
         </li>
         <li>
-          <a href="/%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D-%D0%BC%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D1%8D%D0%BB/%D1%85%D1%8D%D0%BB%D1%81%D1%8D%D0%BD-%D2%AF%D0%B3/">
+          <a href="/medee-medeelel/helsen-ug/">
             Хэлсэн үг
           </a>
         </li>
         <li>
-          <a href="/%D2%AF%D0%B9%D0%BB-%D1%8F%D0%B2%D0%B4%D0%B0%D0%BB-event/%D2%AF%D0%B9%D0%BB-%D1%8F%D0%B2%D0%B4%D0%B0%D0%BB/">
+          <a href="/medee-medeelel/uil-yavdal/">
             Үйл явдал
           </a>
         </li>
@@ -570,17 +570,17 @@ const Footer  = () => {
       </p>
       <ul id="reportmenu">
         <li>
-          <a href="/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD/%D0%BC%D3%A9%D1%80%D0%B8%D0%B9%D0%BD-%D1%85%D3%A9%D1%82%D3%A9%D0%BB%D0%B1%D3%A9%D1%80/">
+          <a href="/tailan/muriin-hutulbur/">
             Мөрийн хөтөлбөр
           </a>
         </li>
         <li>
-          <a href="/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD/%D1%82%D0%BE%D0%B9%D1%80%D0%BE%D0%B3%D1%82%D0%BE%D0%BE-%D1%85%D0%B8%D0%B9%D1%81%D1%8D%D0%BD-%D0%B0%D0%B6%D0%B8%D0%BB/">
+          <a href="/tailan/toirogtoo-hiisen-ajil/">
             Тойрогтоо хийсэн ажил
           </a>
         </li>
         <li>
-          <a href="/%D1%82%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD/%D1%81%D0%B0%D0%BD%D0%B0%D0%B0%D1%87%D0%B8%D0%BB%D1%81%D0%B0%D0%BD-%D1%85%D1%83%D1%83%D0%BB%D0%B8%D0%B9%D0%BD-%D1%82%D3%A9%D1%81%D3%A9%D0%BB/">
+          <a href="/tailan/sanaachilsan-huuliin-tusul/">
             Санаачилсан хуулийн төсөл
           </a>
         </li>
@@ -934,7 +934,7 @@ const Footer  = () => {
           <a href="/">Засгийн Газар</a>
         </li>
         <li>
-          <a href="/%D1%85%D0%BE%D0%BB%D0%B1%D0%BE%D0%BE-%D0%B1%D0%B0%D1%80%D0%B8%D1%85/">
+          <a href="/holboo-barih/">
             Холбоо барих
           </a>
         </li>
